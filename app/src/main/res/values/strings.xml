@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jet Trivia</string>
+    <string name="loading">Loading questions...</string>
+</resources>
